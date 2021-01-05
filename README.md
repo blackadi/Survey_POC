@@ -8,3 +8,5 @@ A Simple Express.js App to send surveys
  - Using Stripe API for a sample purchase.
  - Using SendGrid API as an email sender service.
  - MongoDB as a data storage.
+ 
+### Demo link for the app can be found here: https://cryptic-spire-83178.herokuapp.com/
